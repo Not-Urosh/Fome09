@@ -15,6 +15,9 @@ public class addtn {
 
 		int add=x+y;
 		System.out.println("Answer: "+add);
+		
+		int  sub=x-y;
+		System.out.println("Answer: "+sub);
 
 	}
 
